@@ -52,7 +52,7 @@ On the Ubuntu Server:
 
 To verify IDS functionality:
 
-1. From a test machine, accessed [httptestmynids.org](http://httptestmynids.org) to generate simulated malicious traffic.  
+1. Used curl to access [httptestmynids.org](http://httptestmynids.org) and generate simulated malicious traffic.  
 2. Checked Suricata logs:
 
     ```bash
